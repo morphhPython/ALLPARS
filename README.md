@@ -1,7 +1,20 @@
-# Python-Email-parser
-ALLPARS - is a big project with active development
-ALLPARS is a parser created by one developer, that is, me (https://github.com/morphhPython) In my parser there is a ready-made mailer with an anti-spam block system and AI for writing letter text, there is also a mail validator that checks them also with AI, also in my parser there is a ready-made recursive crawler with dork search (Google, DDG, Bing, Yandex dorks) also in ALLPARS there is lo-fi radio
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-The project is public property and cannot be sold.
+# Run and deploy your AI Studio app
 
-Contacts with me (creator of ALLPARS): t.me/oersus and t.me/recessclub
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/3697d669-73ff-4b3b-bf30-8c4a0e8876f5
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

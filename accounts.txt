@@ -1,0 +1,6 @@
+# File for sender accounts in format: email:password
+# Add your accounts below, one per line.
+# Example:
+sender.demo@gmail.com:app_pass_abcd1234
+outreach.lead@yandex.ru:secret_token_998
+alex.developer@mail.ru:mailru_app_pass

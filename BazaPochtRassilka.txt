@@ -1,0 +1,5 @@
+loudnate@gmail.com
+vitalik.buterin@ethereum.org
+torvalds@linux-foundation.org
+gvanrossum@python.org
+satya.nadella@microsoft.com
