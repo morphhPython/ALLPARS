@@ -1,6 +1,0 @@
-{
-  "name": "MORPHH ALLPARS - AI OSINT Email Crawler & Outreach Studio",
-  "description": "Advanced Cyberpunk OSINT email crawler, multi-engine dork searcher, Gemini AI email validator, and intelligent mailer with combo account management.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
