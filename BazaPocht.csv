@@ -1,0 +1,6 @@
+EMAIL,DOMAIN,COUNTRY,LAST_ACTIVE,CATEGORY,SOURCE,STATUS,SCORE,DISCOVERED_AT
+loudnate@gmail.com,gmail.com,США / Global 🇺🇸,2026-10-09 14:20,HUMAN / PERSONAL,https://github.com/torvalds/linux/MAINTAINERS,SAFE,95,2026-10-10 10:00:00
+alex.developer@mail.ru,mail.ru,Россия 🇷🇺,2026-10-08 19:45,HUMAN / PERSONAL,https://github.com/torvalds/linux/.mailmap,SAFE,94,2026-10-10 10:01:00
+hans.weber@berlin.de,berlin.de,Германия 🇩🇪,2026-10-07 11:15,HUMAN / PERSONAL,https://github.com/rust-lang/rust/AUTHORS,SAFE,92,2026-10-10 10:02:00
+vitalik.buterin@ethereum.org,ethereum.org,Международный 🌐,2026-10-09 09:30,CORPORATE / DEV,https://github.com/ethereum,SAFE,98,2026-10-10 10:03:00
+torvalds@linux-foundation.org,linux-foundation.org,США / Global 🇺🇸,2026-10-09 21:05,CORPORATE / DEV,https://github.com/torvalds,RISKY,65,2026-10-10 10:04:00
