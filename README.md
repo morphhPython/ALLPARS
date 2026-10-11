@@ -47,12 +47,3 @@ Designed for researchers, marketers, and OSINT specialists, it combines a multi-
 
 ### 📻 Built-in Lo-Fi Radio
 *   Stay focused while harvesting! Integrated 24/7 Lo-Fi, Chillhop, and Cyberpunk radio stations with a live audio spectrum visualizer and volume control.
-
----
-
-## ⚙️ Installation & Usage
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/morphhPython/ALLPARS.git
-   cd ALLPARS
