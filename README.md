@@ -47,3 +47,10 @@ Designed for researchers, marketers, and OSINT specialists, it combines a multi-
 
 ### 📻 Built-in Lo-Fi Radio
 *   Stay focused while harvesting! Integrated 24/7 Lo-Fi, Chillhop, and Cyberpunk radio stations with a live audio spectrum visualizer and volume control.
+
+📞 Contacts & Community
+Created with ❤️ by morphhPython
+GitHub: github.com/morphhPython
+Telegram (Personal): @oersus
+Telegram (Community/Club): @recessclub
+If you find a bug, have a feature request, or want to contribute, feel free to open an Issue or reach out via Telegram!
